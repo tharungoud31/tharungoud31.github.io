@@ -1,0 +1,17 @@
+body{
+	background-image:url(royal.jpg);
+	background-image: cover;
+}
+h4:hover{
+	cursor: pointer;
+	text-align: center;
+}
+li{
+	color: red;
+}
+form{
+	font-family:courier;
+}
+*{
+	text-align:left;
+}
